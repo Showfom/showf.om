@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on Showfom&#39;s Blog</title>
+    <link>https://showf.om/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on Showfom&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Mar 2018 21:11:31 +0800</lastBuildDate>
+    
+	<atom:link href="https://showf.om/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Install Nginx, MySQL and PHP (LEMP Stack) on Ubuntu 16.04 / Ubuntu 14.04</title>
+      <link>https://showf.om/blog/ubuntu-install-nginx-php-mysql/</link>
+      <pubDate>Mon, 19 Mar 2018 21:11:31 +0800</pubDate>
+      
+      <guid>https://showf.om/blog/ubuntu-install-nginx-php-mysql/</guid>
+      <description>LEMP is the acronym for Linux + Nginx + MySQL + PHP. It is also known as LNMP (which is unpronounceable, so we&amp;rsquo;ll call it LEMP).
+The following tutorial is for Ubuntu versions 16.04.x and 14.04.x. However, we would always recommend to use the latest version to avoid bugs from lower ones.
+We recommend you following the instructions as the root user. To switch to the root user, use the command sudo -i.</description>
+    </item>
+    
+  </channel>
+</rss>

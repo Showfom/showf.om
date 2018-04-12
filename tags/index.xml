@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Showfom&#39;s Blog</title>
+    <link>https://showf.om/tags/</link>
+    <description>Recent content in Tags on Showfom&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Mar 2018 21:18:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://showf.om/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Debian</title>
+      <link>https://showf.om/tags/debian/</link>
+      <pubDate>Mon, 19 Mar 2018 21:18:51 +0800</pubDate>
+      
+      <guid>https://showf.om/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>https://showf.om/tags/mysql/</link>
+      <pubDate>Mon, 19 Mar 2018 21:18:51 +0800</pubDate>
+      
+      <guid>https://showf.om/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nginx</title>
+      <link>https://showf.om/tags/nginx/</link>
+      <pubDate>Mon, 19 Mar 2018 21:18:51 +0800</pubDate>
+      
+      <guid>https://showf.om/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>https://showf.om/tags/php/</link>
+      <pubDate>Mon, 19 Mar 2018 21:18:51 +0800</pubDate>
+      
+      <guid>https://showf.om/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://showf.om/tags/ubuntu/</link>
+      <pubDate>Mon, 19 Mar 2018 21:11:31 +0800</pubDate>
+      
+      <guid>https://showf.om/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

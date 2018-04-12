@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Showfom&#39;s Blog</title>
+    <link>https://showf.om/</link>
+    <description>Recent content on Showfom&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Apr 2018 05:07:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://showf.om/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://showf.om/contact/</link>
+      <pubDate>Fri, 13 Apr 2018 05:07:41 +0800</pubDate>
+      
+      <guid>https://showf.om/contact/</guid>
+      <description>Normally, you can contact me via:
+ Telegram @Showfom Email &amp;amp; Hangouts showfom at gmail dot com SMS / Google Project Fi +1 (217)288-8888 Twitter @Showfom Facebook Messenger @Showfom Skype Showfom  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://showf.om/about/</link>
+      <pubDate>Fri, 13 Apr 2018 05:07:37 +0800</pubDate>
+      
+      <guid>https://showf.om/about/</guid>
+      <description>All posts on this blog are published under WTFPL license if there are no specific instructions.</description>
+    </item>
+    
+    <item>
+      <title>How to Install Nginx, MySQL and PHP (LEMP Stack) on Debian 9 / Debian 8</title>
+      <link>https://showf.om/blog/debian-install-nginx-php-mysql/</link>
+      <pubDate>Mon, 19 Mar 2018 21:18:51 +0800</pubDate>
+      
+      <guid>https://showf.om/blog/debian-install-nginx-php-mysql/</guid>
+      <description>Debian 9 Stretch was released on June 18, 2017. Because it&amp;rsquo;s the latest operating system, the old LEMP (Linux + Nginx + MySQL + PHP) installation tutorials based on Dotdeb have become obsolete. This article will demonstrate how to install the latest version of LEMP on Debian 9.x Stretch using both official and third-party repositories. You will be able to select your preferred version of PHP.
+This article is also applicable to Debian 8.</description>
+    </item>
+    
+    <item>
+      <title>How to Install Nginx, MySQL and PHP (LEMP Stack) on Ubuntu 16.04 / Ubuntu 14.04</title>
+      <link>https://showf.om/blog/ubuntu-install-nginx-php-mysql/</link>
+      <pubDate>Mon, 19 Mar 2018 21:11:31 +0800</pubDate>
+      
+      <guid>https://showf.om/blog/ubuntu-install-nginx-php-mysql/</guid>
+      <description>LEMP is the acronym for Linux + Nginx + MySQL + PHP. It is also known as LNMP (which is unpronounceable, so we&amp;rsquo;ll call it LEMP).
+The following tutorial is for Ubuntu versions 16.04.x and 14.04.x. However, we would always recommend to use the latest version to avoid bugs from lower ones.
+We recommend you following the instructions as the root user. To switch to the root user, use the command sudo -i.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debian on Showfom&#39;s Blog</title>
+    <link>https://showf.om/tags/debian/</link>
+    <description>Recent content in Debian on Showfom&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Mar 2018 21:18:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://showf.om/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Install Nginx, MySQL and PHP (LEMP Stack) on Debian 9 / Debian 8</title>
+      <link>https://showf.om/blog/debian-install-nginx-php-mysql/</link>
+      <pubDate>Mon, 19 Mar 2018 21:18:51 +0800</pubDate>
+      
+      <guid>https://showf.om/blog/debian-install-nginx-php-mysql/</guid>
+      <description>Debian 9 Stretch was released on June 18, 2017. Because it&amp;rsquo;s the latest operating system, the old LEMP (Linux + Nginx + MySQL + PHP) installation tutorials based on Dotdeb have become obsolete. This article will demonstrate how to install the latest version of LEMP on Debian 9.x Stretch using both official and third-party repositories. You will be able to select your preferred version of PHP.
+This article is also applicable to Debian 8.</description>
+    </item>
+    
+  </channel>
+</rss>
